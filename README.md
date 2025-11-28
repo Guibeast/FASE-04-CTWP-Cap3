@@ -46,11 +46,11 @@ O resultado é um modelo capaz de classificar automaticamente diferentes tipos d
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>assets</b>: Armazena o arquivo logo-fiap.png, logo da FIAP e prints do projeto.
+- <b>assets</b>: Armazena o arquivo logo-fiap.png, logo da FIAP.
 
 - <b>data</b>: Armazena o arquivo seeds_dataset.txt, que serve como base de dados para o treinamento do modelo.
 
-- <b>docs</b>: Contém a documentação de dependências do projeto, incluindo o arquivo requirements.txt.
+- <b>docs</b>: Contém a documentação de dependências do projeto, incluindo o arquivo requirements.txt e prints do projeto.
 
 - <b>src</b>: Todo o código fonte da aplicação principal: AtividadeCap3Fase4.ipynb.
 
