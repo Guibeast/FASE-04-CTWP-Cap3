@@ -1,0 +1,7 @@
+# requirements.txt
+pandas>=1.0.0      # Manipulação e análise de dados
+numpy>=1.18.0      # Suporte para grandes matrizes e funções matemáticas
+scikit-learn>=0.22 # Algoritmos de Machine Learning (Regressão)
+streamlit>=1.0.0   # Construção do Dashboard Interativo
+matplotlib>=3.1.0  # Visualização de dados (gráficos)
+seaborn>=0.10.0    # Visualização de dados (gráficos mais avançados, como heatmap de correlação)
